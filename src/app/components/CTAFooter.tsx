@@ -1,4 +1,4 @@
-import hyrraLogo from "../../assets/2a0830f169b77dccd8a2dfbe09a4f88762f2a3aa.png";
+import hyrraLogo from "../../assets/Hyrra-logo-final-blue-white.png";
 import AnimateIn from "./AnimateIn";
 
 export default function CTAFooter() {
@@ -73,7 +73,7 @@ export default function CTAFooter() {
             <img
               src={hyrraLogo}
               alt="Hyrra.ai logo"
-              className="h-6 w-auto object-contain brightness-0 invert"
+              className="h-7 w-auto object-contain"
             />
           </div>
           <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-8">

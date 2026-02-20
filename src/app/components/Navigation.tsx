@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import hyrraLogo from "../../assets/2a0830f169b77dccd8a2dfbe09a4f88762f2a3aa.png";
+import hyrraLogo from "../../assets/Hyrra-logo-final-blue-white.png";
 
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -28,11 +28,13 @@ export default function Navigation() {
     >
       <div className="w-full max-w-[1440px] flex items-center justify-between px-6 md:px-16 py-4">
         <a href="#" className="flex items-center gap-2">
-          <img
-            src={hyrraLogo}
-            alt="Hyrra.ai logo"
-            className="h-[28px] w-auto object-contain"
-          />
+          <span className="bg-[#0a0a1a] rounded-lg px-3 py-2 shadow-[0_8px_24px_-16px_rgba(0,0,0,0.5)]">
+            <img
+              src={hyrraLogo}
+              alt="Hyrra.ai logo"
+              className="h-[22px] md:h-[24px] w-auto object-contain"
+            />
+          </span>
         </a>
 
         <div className="hidden lg:flex items-center gap-8">
