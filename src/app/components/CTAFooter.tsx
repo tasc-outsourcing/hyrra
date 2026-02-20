@@ -73,7 +73,7 @@ export default function CTAFooter() {
             <img
               src={hyrraLogo}
               alt="Hyrra.ai logo"
-              className="h-9 w-auto object-contain"
+              className="h-12 w-auto object-contain"
             />
           </div>
           <div className="flex flex-col sm:flex-row sm:items-center gap-4 sm:gap-8">
