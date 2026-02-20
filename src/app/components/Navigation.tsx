@@ -31,7 +31,7 @@ export default function Navigation() {
           <img
             src={hyrraLogo}
             alt="Hyrra.ai logo"
-            className="h-[44px] md:h-[52px] w-auto object-contain"
+            className="h-[64px] md:h-[72px] w-auto object-contain"
           />
         </a>
 
