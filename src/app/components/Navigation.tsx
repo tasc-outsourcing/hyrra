@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import hyrraLogo from "../../assets/hyrra-logo-cropped.png";
+import hyrraLogo from "../../assets/Hyrra-logo-final-OG.png";
 
 export default function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
