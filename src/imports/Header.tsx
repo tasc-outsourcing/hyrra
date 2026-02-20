@@ -1,4 +1,4 @@
-import imgInnerScreen from "figma:asset/2b19803f6c5e3c26b39f607fe129d1919300df81.png";
+import imgInnerScreen from "../assets/2b19803f6c5e3c26b39f607fe129d1919300df81.png";
 
 function InnerScreen() {
   return (

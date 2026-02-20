@@ -1,4 +1,4 @@
-import hyrraLogo from "figma:asset/2a0830f169b77dccd8a2dfbe09a4f88762f2a3aa.png";
+import hyrraLogo from "../../assets/2a0830f169b77dccd8a2dfbe09a4f88762f2a3aa.png";
 import AnimateIn from "./AnimateIn";
 
 export default function CTAFooter() {

@@ -1,14 +1,14 @@
 import svgPaths from "./svg-1ynnat7y3r";
-import imgLogo from "figma:asset/7e2cb6a493f6974234a10a9155f5a9e61358668d.png";
-import imgLogo1 from "figma:asset/4ec63af28a6d626d15af88690afce1177f7da2aa.png";
-import imgLogo2 from "figma:asset/22502dfc1e4e8a242285d42db1a38e6e853633fc.png";
-import imgLogo3 from "figma:asset/ab60fb89b643e72e94769301b2a7ea53c2788495.png";
-import imgLogo4 from "figma:asset/5353f37898f8daa86c3f3f525e94362e62de8b6a.png";
-import imgLogo5 from "figma:asset/262ae2257b7f47685a1fd90f0f27d6372a2bca23.png";
-import imgHeroImage from "figma:asset/27594e92b9b432843319210cddc6514b6ee87450.png";
-import imgImage from "figma:asset/8c5a21adadebacbd69375684275fb89819b4d967.png";
-import imgImage1 from "figma:asset/7d21c327f1e7740ce9c46cd595065dccfdcec99a.png";
-import imgImage2 from "figma:asset/de5a74711b655d5394631256a2e65f4f4b7e3f42.png";
+import imgLogo from "../assets/7e2cb6a493f6974234a10a9155f5a9e61358668d.png";
+import imgLogo1 from "../assets/4ec63af28a6d626d15af88690afce1177f7da2aa.png";
+import imgLogo2 from "../assets/22502dfc1e4e8a242285d42db1a38e6e853633fc.png";
+import imgLogo3 from "../assets/ab60fb89b643e72e94769301b2a7ea53c2788495.png";
+import imgLogo4 from "../assets/5353f37898f8daa86c3f3f525e94362e62de8b6a.png";
+import imgLogo5 from "../assets/262ae2257b7f47685a1fd90f0f27d6372a2bca23.png";
+import imgHeroImage from "../assets/27594e92b9b432843319210cddc6514b6ee87450.png";
+import imgImage from "../assets/8c5a21adadebacbd69375684275fb89819b4d967.png";
+import imgImage1 from "../assets/7d21c327f1e7740ce9c46cd595065dccfdcec99a.png";
+import imgImage2 from "../assets/de5a74711b655d5394631256a2e65f4f4b7e3f42.png";
 
 function Logo() {
   return (
