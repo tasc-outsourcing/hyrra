@@ -1,4 +1,4 @@
-import hyrraLogo from "../../assets/Hyrra-logo-final-OG.png";
+import hyrraLogo from "../../assets/Hyrra Logo final.png";
 import AnimateIn from "./AnimateIn";
 
 export default function CTAFooter() {
