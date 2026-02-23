@@ -49,8 +49,16 @@ export default function ComparisonTable() {
               className="font-['Inter',sans-serif] text-[32px] md:text-[48px] text-[#0a0a1a] tracking-[-2px] md:tracking-[-2.5px] leading-[0.95]"
               style={{ fontWeight: 800 }}
             >
-              How Hyrra Is Structurally Different
+              Hyrra Is the Operating System for Hiring
             </h2>
+          </AnimateIn>
+          <AnimateIn delay={0.08}>
+            <p
+              className="font-['Inter',sans-serif] text-[15px] md:text-[18px] text-[#6b7280] tracking-[-0.2px] leading-[1.6] max-w-[820px]"
+              style={{ fontWeight: 400 }}
+            >
+              An ATS helps recruiters track candidates and schedule interviews. Hyrra runs the hiring process from sourcing to screening to interviews using coordinated AI built for GCC hiring complexity.
+            </p>
           </AnimateIn>
         </div>
 
