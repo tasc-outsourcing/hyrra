@@ -21,7 +21,8 @@ export default function GCCComplexity() {
         className="absolute inset-0 bg-center bg-cover"
         style={{ backgroundImage: `url(${problemBackground})` }}
       />
-      <div className="absolute inset-0 bg-white/85 backdrop-blur-[1px]" />
+      <div className="absolute inset-0 bg-white/45 backdrop-blur-[1px]" />
+      <div className="absolute inset-0 bg-gradient-to-b from-white/40 via-white/10 to-white/35" />
       <div className="relative w-full max-w-[1440px] px-6 md:px-16 py-24 md:py-40">
         {/* Header */}
         <div className="flex flex-col items-center text-center gap-6 max-w-[720px] mx-auto mb-16 md:mb-24">
