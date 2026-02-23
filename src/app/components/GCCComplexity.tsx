@@ -1,5 +1,6 @@
 import SectionLabel from "./SectionLabel";
 import AnimateIn from "./AnimateIn";
+import problemBackground from "../../assets/background image.jpg";
 
 const challenges = [
   "Visa cycles",
@@ -16,6 +17,11 @@ export default function GCCComplexity() {
       id="how-it-works"
       className="w-full flex flex-col items-center bg-[#fafbfc] relative overflow-hidden"
     >
+      <div
+        className="absolute inset-0 bg-center bg-cover"
+        style={{ backgroundImage: `url(${problemBackground})` }}
+      />
+      <div className="absolute inset-0 bg-white/85 backdrop-blur-[1px]" />
       <div className="relative w-full max-w-[1440px] px-6 md:px-16 py-24 md:py-40">
         {/* Header */}
         <div className="flex flex-col items-center text-center gap-6 max-w-[720px] mx-auto mb-16 md:mb-24">
