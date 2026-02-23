@@ -191,7 +191,7 @@ export default function AIBrainNetwork() {
             className="font-['Inter',sans-serif] text-[10px] md:text-[12px] text-[#2563eb] tracking-[-0.2px] whitespace-nowrap"
             style={{ fontWeight: 600 }}
           >
-            Orchestrator
+            Hyrra.ai
           </span>
         </div>
       </div>
