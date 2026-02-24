@@ -1,6 +1,5 @@
 import Navigation from "./components/Navigation";
 import HeroSection from "./components/HeroSection";
-import ScrollGrid from "./components/ScrollGrid";
 import GCCComplexity from "./components/GCCComplexity";
 import ComparisonTable from "./components/ComparisonTable";
 import AIAgents from "./components/AIAgents";
@@ -16,7 +15,6 @@ export default function App() {
       <Navigation />
       <main className="w-full flex flex-col items-center">
         <HeroSection />
-        <ScrollGrid />
         <GCCComplexity />
         <ComparisonTable />
         <AIAgents />
